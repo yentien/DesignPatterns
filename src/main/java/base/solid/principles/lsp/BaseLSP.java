@@ -1,6 +1,6 @@
 package base.solid.principles.lsp;
 
-// LSP: liskov substitution principle
+// LSP: liskov substitution principle 里氏替換原則
 // 宣告parent class時，其初始化的方式可以是parent class，也可以是child class
 // 若初始化child class，且child class有override parent class的方法或屬性
 // ，則會使用child class的方法和屬性
