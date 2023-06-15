@@ -1,7 +1,5 @@
 # Design Patterns
 
----
-
 ## SOLID 五大原則
 
 ### Single responsibility principle 單一職責原則
@@ -22,5 +20,6 @@
 ### Dependency inversion principle 依賴反轉原則
 - 將依賴具體的class改成抽象的interface，再由其他地方去實例化抽象介面
 
----
 
+
+## 模式 
